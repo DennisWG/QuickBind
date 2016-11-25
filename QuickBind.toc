@@ -1,0 +1,5 @@
+## Interface: 11200
+## Author: DWG
+## Title: QuickBind
+## Notes: Mouseover keybinds for Blizzard's action bars
+QuickBind.lua
